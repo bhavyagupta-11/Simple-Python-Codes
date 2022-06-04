@@ -1,0 +1,1 @@
+This is a price comparison code that accepts urls of 2 products to be compared on amazon and flipkart and sends mail to the respective person containing the information of the lower price object.It uses the BeautifulSoup,smtplib,requests python Libraries
